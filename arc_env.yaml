@@ -1,0 +1,25 @@
+name: m3
+channels:
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=5.1=51_gnu
+  - ca-certificates=2021.10.26=hd43f75c_2
+  - certifi=2021.10.8=py37hd43f75c_0
+  - ld_impl_linux-aarch64=2.36.1=h0ab8de2_3
+  - libffi=3.3=h7c1a80f_2
+  - libgcc-ng=10.2.0=h1234567_51
+  - libgomp=10.2.0=h1234567_51
+  - libstdcxx-ng=10.2.0=h1234567_51
+  - ncurses=6.3=h2f4d8fa_1
+  - openssl=1.1.1l=h2f4d8fa_0
+  - pip=21.2.4=py37hd43f75c_0
+  - python=3.7.11=hc137634_0
+  - readline=8.1=hfd63f10_0
+  - setuptools=58.0.4=py37hd43f75c_0
+  - sqlite=3.36.0=h6632b73_0
+  - tk=8.6.11=h241ca14_0
+  - wheel=0.37.0=pyhd3eb1b0_1
+  - xz=5.2.5=hfd63f10_1
+  - zlib=1.2.11=hfd63f10_5
+prefix: /home/parallels/anaconda3/envs/m3
