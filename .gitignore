@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+
+# General mac hidden files
+.DS_Store
+.AppleDouble
+.LSOverride
