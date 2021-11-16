@@ -1,5 +1,6 @@
 .ipynb_checkpoints
-
+__pychace__/
+*.pyc
 # General mac hidden files
 .DS_Store
 .AppleDouble
